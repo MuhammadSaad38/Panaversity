@@ -44,3 +44,8 @@ I am a software engineer with a strong foundation in coding, system design, and 
 Technical Skills:
 
 My expertise spans various programming languages, including but not limited to JavaScript, Python, and Java. I am proficient in using modern frameworks and tools to develop software that meets industry standards.
+
+Team Collaboration: 
+
+I believe that collaboration is key to success in software engineering. I thrive in team environments, where I can share ideas, learn from others, and contribute to the collective goal of delivering high-quality software.
+
